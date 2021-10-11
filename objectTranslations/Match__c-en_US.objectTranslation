@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Match</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Matches</value>
+    </caseValues>
+    <fields>
+        <label><!-- Days Left --></label>
+        <name>Days_Left__c</name>
+    </fields>
+    <fields>
+        <label><!-- Previous Match Between Teams Datetime --></label>
+        <name>Previous_Match_Between_Teams_Datetime__c</name>
+    </fields>
+    <fields>
+        <label><!-- Score --></label>
+        <name>Score__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start DateTime --></label>
+        <name>Start_DateTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- Team --></label>
+        <name>Team__c</name>
+        <relationshipLabel><!-- Matches --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Visitors --></label>
+        <lookupFilter>
+            <errorMessage><!-- Гравців менше чим 11 --></errorMessage>
+        </lookupFilter>
+        <name>Visitors__c</name>
+        <relationshipLabel><!-- Matches (Visitors) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Winner --></label>
+        <name>Winner__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Score cannot be negative --></errorMessage>
+        <name>Negative_Score</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please use this format &quot;score1:score2&quot; --></errorMessage>
+        <name>Score_Format</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Match&apos;s StartDateTime__c cannot be in past --></errorMessage>
+        <name>StartDateTime_past</name>
+    </validationRules>
+</CustomObjectTranslation>

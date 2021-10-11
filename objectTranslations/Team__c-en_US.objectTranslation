@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Team</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Teams</value>
+    </caseValues>
+    <fields>
+        <label><!-- Played Home Matches Count --></label>
+        <name>Played_Home_Matches_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Active Players --></label>
+        <name>Total_Active_Players__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Wins --></label>
+        <name>Total_Wins__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
