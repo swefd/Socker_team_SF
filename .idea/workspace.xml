@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9a68bab-d14e-49fa-9e3d-d430e0263bff" name="Default Changelist" comment="Custom LWC" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Lightning Web Component HTML" />
+        <option value="Lightning Web Component JavaScript" />
+        <option value="Apex Metadata" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="feature/001" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/001" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/swefd/Socker_team_SF" />
+      </set>
+    </option>
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="applicationWorkspaceSettings">
+      <ApplicationWorkspaceSettings>
+        <option name="showMetaXmlFiles" value="true" />
+      </ApplicationWorkspaceSettings>
+    </option>
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="Socker_team">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1633939968629" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="apexLogLevel" value="FINEST" />
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="Socker Team">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="APEXCLASS:PLAYERSERVICES" value="1633941304814" />
+                      <entry key="LIGHTNINGCOMPONENTBUNDLE:TEST_LWC" value="1633947675000" />
+                    </map>
+                  </option>
+                  <option name="lastBuildScope" value="CONTEXT" />
+                  <option name="lastBuildViewToggles">
+                    <map>
+                      <entry key="DEPLOY">
+                        <value>
+                          <BuildViewToggles>
+                            <option name="showLocalAndServer" value="true" />
+                            <option name="showLocalOnly" value="true" />
+                            <option name="showServerOnly" value="false" />
+                            <option name="showSubscribedByParent" value="true" />
+                            <option name="showSubscribedOnly" value="true" />
+                          </BuildViewToggles>
+                        </value>
+                      </entry>
+                      <entry key="RETRIEVE">
+                        <value>
+                          <BuildViewToggles>
+                            <option name="showLocalAndServer" value="true" />
+                            <option name="showLocalOnly" value="false" />
+                            <option name="showServerOnly" value="true" />
+                            <option name="showSubscribedByParent" value="true" />
+                            <option name="showSubscribedOnly" value="true" />
+                          </BuildViewToggles>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="lastDeploymentOptions">
+                    <DeploymentOptions />
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="retrieveAndMergeDefault" value="false" />
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zLtXn4W725fX2UCHFy4foVZhHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9a68bab-d14e-49fa-9e3d-d430e0263bff" name="Default Changelist" comment="" />
+      <created>1633939239687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633939239687</updated>
+      <workItem from="1633939245200" duration="148000" />
+      <workItem from="1633939965342" duration="27000" />
+      <workItem from="1633939992863" duration="180000" />
+      <workItem from="1633940182170" duration="6862000" />
+      <workItem from="1633948326213" duration="289000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st">
+      <created>1633941559032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633941559032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Custom object">
+      <created>1633943531639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633943531639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Custom LWC">
+      <created>1633947874678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633947874678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/swefd/IdeaProjects/Socker_team/apexEmailNotifications" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1st" />
+    <MESSAGE value="Custom object" />
+    <MESSAGE value="Custom LWC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Custom LWC" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1310" y="315" width="819" height="763" key="#Illuminated_Cloud" timestamp="1633948423440">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1310" y="315" width="819" height="763" key="#Illuminated_Cloud/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633948423440" />
+    <state x="1339" y="530" width="1082" height="340" key="#Illuminated_Cloud_(Socker_team)" timestamp="1633940096975">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1339" y="530" width="1082" height="340" key="#Illuminated_Cloud_(Socker_team)/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633940096975" />
+    <state x="2365" y="391" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1633945901626">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2365" y="391" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633945901626" />
+    <state x="1499" y="454" key="FileChooserDialogImpl" timestamp="1633948420947">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1499" y="454" key="FileChooserDialogImpl/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633948420947" />
+    <state x="1592" y="598" width="730" height="314" key="Github.ShareDialog" timestamp="1633941670204">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1592" y="598" width="730" height="314" key="Github.ShareDialog/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633941670204" />
+    <state x="2160" y="435" key="IDE.errors.dialog" timestamp="1633948281333">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2160" y="435" key="IDE.errors.dialog/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633948281333" />
+    <state x="2081" y="345" key="SettingsEditor" timestamp="1633945819359">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2081" y="345" key="SettingsEditor/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633945819359" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1633947876791">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633947876791" />
+    <state x="2397" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633947935877">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2397" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633947935877" />
+    <state x="1812" y="92" width="1536" height="1216" key="git4idea.log.GitShowExternalLogAction" timestamp="1633948309833">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1812" y="92" width="1536" height="1216" key="git4idea.log.GitShowExternalLogAction/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633948309833" />
+    <state x="1155" y="470" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1633941426897">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1155" y="470" key="git4idea.remote.GitConfigureRemotesDialog/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633941426897" />
+    <state x="2243" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1633945784621">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2243" y="315" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/3440.-139.1080.1880@0.0.3440.1400" timestamp="1633945784621" />
+  </component>
+</project>
